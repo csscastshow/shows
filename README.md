@@ -26,7 +26,7 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Host:** [Afonso Pacifer](https://github.com/afonsopacifer) <br>
 **Edição:** imovie. <br>
 **Gravação:** QuickTime. <br>
-**Plataformas de apresentação:** [Codepen](http://codepen.io/afonsopacifer/).<br>
+**Plataformas de apresentação:** [Codepen](http://codepen.io/afonsopacifer/) / Keynote.<br>
 **Câmera:** A do Macbook. <br>
 **Microfone:** O do Macbook.
 

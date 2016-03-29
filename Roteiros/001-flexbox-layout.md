@@ -1,12 +1,6 @@
 
 # Show #001 - Flexbox Layout
 
-## Conteúdo
-
-- Novidades
-- Conteúdo - Flexbox Layout
-- Dicas
-
 <hr>
 
 ## Novidades
