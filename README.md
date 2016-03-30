@@ -6,7 +6,7 @@
 
 ## O que você quer ver no canal?
 
-Sugestões de conteúdo podem ser feitas da forma que quiserem rsrs, porém criar uma [issues](https://github.com/csscastshow/shows/issues) é com certeza a forma mais descolada :sunglasses:
+Sugestões de conteúdo podem ser feitas da forma que quiserem rsrs, porém criar uma [issue](https://github.com/csscastshow/shows/issues) é com certeza a forma mais descolada :sunglasses:
 
 <hr>
 

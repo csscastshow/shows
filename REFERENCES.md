@@ -33,35 +33,72 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 
 ### #xxx - Grid Layout
 - [CSS Grid Layout Module Level 1 - W3C](https://www.w3.org/TR/css-grid-1/)
+- [Grid by Example - Rachel Andrew](http://gridbyexample.com/)
+- [Should I use Grid or Flexbox? - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ### #xxx - Multi-column Layout
 - [CSS Multi-column Layout Module - W3C](https://www.w3.org/TR/css3-multicol/)
+- [A CSS Multi-column Layout Tutorial for Beginners - Baljeet Rathi](http://www.sitepoint.com/css-multi-column-layout-tutorial-for-beginners/)
+- []()
+- []()
 - []()
 
 ### #xxx - Box Alignment
 - [CSS Box Alignment Module Level 3 - W3C](https://www.w3.org/TR/css-align-3/)
 - []()
+- []()
+- []()
+- []()
 
 ### #xxx - Regions
 - [CSS Regions Module Level 1 - W3C](https://www.w3.org/TR/css-regions-1/)
+- [CSS Grid and CSS Regions - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/25/css-grid-and-css-regions/)
+- []()
+- []()
 - []()
 
 ### #xxx - Exclusions
 - [CSS Exclusions Module Level 1 - W3C](https://www.w3.org/TR/css3-exclusions/)
+- [CSS Exclusions and Grid Layout - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
+- []()
+- []()
 - []()
 
 ### #xxx - Shapes
 - [CSS Shapes Module Level 1 - W3C](https://www.w3.org/TR/css-shapes-1/)
+- [Getting Started with CSS Shapes - Razvan Caliman](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
+- []()
+- []()
 - []()
 
 ### #xxx - Filter
 - [Filter Effects Module Level 1 - W3C](https://www.w3.org/TR/filter-effects/)
+- [Filtros CSS - Willian Justen](http://willianjusten.com.br/filtros-css/)
+- []()
+- []()
 - []()
 
 ### #xxx - Blend Modes
 - [Compositing and Blending Level 1 - W3C](https://www.w3.org/TR/compositing-1/)
+- [Photoshop is Dead!: Editing Images in CSS - Una Kravets](https://www.youtube.com/watch?v=LY65F2e4B5w)
 - []()
+- []()
+- []()
+
+### #xxx - 50 fatos sobre CSS
+- [The CSS that you know nothing about — Part 1 - Michael Weaver](https://medium.com/@mjtweaver/the-css-that-you-dont-know-about-d5945cea1c94#.wvjm30apc)
+- []()
+
+### #xxx - Performance
+- Layouts
+  - [Layout performance testing - Chris Wright](http://chriswrightdesign.github.io/layout-performance-testing/)
 
 ### #xxx -
 - []()
