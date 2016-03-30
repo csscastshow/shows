@@ -28,3 +28,41 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - [Leveling Up With Flexbox - Zoe M. Gillenwater](https://www.youtube.com/watch?v=NEnaKAoKSp0)
 
 <hr>
+
+## Futuro ;)
+
+### #xxx - Grid Layout
+- [CSS Grid Layout Module Level 1 - W3C](https://www.w3.org/TR/css-grid-1/)
+- []()
+
+### #xxx - Multi-column Layout
+- [CSS Multi-column Layout Module - W3C](https://www.w3.org/TR/css3-multicol/)
+- []()
+
+### #xxx - Box Alignment
+- [CSS Box Alignment Module Level 3 - W3C](https://www.w3.org/TR/css-align-3/)
+- []()
+
+### #xxx - Regions
+- [CSS Regions Module Level 1 - W3C](https://www.w3.org/TR/css-regions-1/)
+- []()
+
+### #xxx - Exclusions
+- [CSS Exclusions Module Level 1 - W3C](https://www.w3.org/TR/css3-exclusions/)
+- []()
+
+### #xxx - Shapes
+- [CSS Shapes Module Level 1 - W3C](https://www.w3.org/TR/css-shapes-1/)
+- []()
+
+### #xxx - Filter
+- [Filter Effects Module Level 1 - W3C](https://www.w3.org/TR/filter-effects/)
+- []()
+
+### #xxx - Blend Modes
+- [Compositing and Blending Level 1 - W3C](https://www.w3.org/TR/compositing-1/)
+- []()
+
+### #xxx -
+- []()
+- []()
