@@ -100,6 +100,12 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - Layouts
   - [Layout performance testing - Chris Wright](http://chriswrightdesign.github.io/layout-performance-testing/)
 
+### #xxx - Regression Testing
+- [Testes de CSS - Eduardo Matos](https://speakerdeck.com/eduardojmatos/testes-de-css)
+- [Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/)
+- []()
+- []()
+
 ### #xxx -
 - []()
 - []()
