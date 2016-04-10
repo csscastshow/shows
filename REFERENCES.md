@@ -88,7 +88,12 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 ### #xxx - Blend Modes
 - [Compositing and Blending Level 1 - W3C](https://www.w3.org/TR/compositing-1/)
 - [Photoshop is Dead!: Editing Images in CSS - Una Kravets](https://www.youtube.com/watch?v=LY65F2e4B5w)
-- []()
+- [The Vintage Washout Effect](http://una.im/vintage-washout/)
+- [3D Glasses Effect](http://una.im/3d-effect/)
+- [Vignettes in 3 Ways](http://una.im/vignettes/)
+- [Bokeh Textures](http://una.im/bokeh/)
+- [Lomography Filters](http://una.im/lomo/)
+- [Infrared Photo Effect](http://una.im/infrared/)
 - []()
 - []()
 
@@ -103,7 +108,7 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 ### #xxx - Regression Testing
 - [Testes de CSS - Eduardo Matos](https://speakerdeck.com/eduardojmatos/testes-de-css)
 - [Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/)
-- []()
+- [CSS regression testing - Filip Bartos](http://blog.bartos.me/css-regression-testing/)
 - []()
 
 ### #xxx -
