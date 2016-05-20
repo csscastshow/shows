@@ -70,6 +70,7 @@
 <hr>
 
 ## Dicas
+- Abraço para "Da Silva Felipe"
 - Eventos
   - Femugs
   - Meetup CSS
