@@ -29,17 +29,14 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 
 <hr>
 
-## Futuro ;)
+## Futuro - Especificações
+
+<hr>
 
 ### #xxx - Grid Layout
 - [CSS Grid Layout Module Level 1 - W3C](https://www.w3.org/TR/css-grid-1/)
 - [Grid by Example - Rachel Andrew](http://gridbyexample.com/)
 - [Should I use Grid or Flexbox? - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
-- []()
-- []()
-- []()
-- []()
-- []()
 - []()
 
 
@@ -47,42 +44,29 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - [CSS Multi-column Layout Module - W3C](https://www.w3.org/TR/css3-multicol/)
 - [A CSS Multi-column Layout Tutorial for Beginners - Baljeet Rathi](http://www.sitepoint.com/css-multi-column-layout-tutorial-for-beginners/)
 - []()
-- []()
-- []()
 
 ### #xxx - Box Alignment
 - [CSS Box Alignment Module Level 3 - W3C](https://www.w3.org/TR/css-align-3/)
-- []()
-- []()
-- []()
 - []()
 
 ### #xxx - Regions
 - [CSS Regions Module Level 1 - W3C](https://www.w3.org/TR/css-regions-1/)
 - [CSS Grid and CSS Regions - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/25/css-grid-and-css-regions/)
 - []()
-- []()
-- []()
 
 ### #xxx - Exclusions
 - [CSS Exclusions Module Level 1 - W3C](https://www.w3.org/TR/css3-exclusions/)
 - [CSS Exclusions and Grid Layout - Rachel Andrew](https://rachelandrew.co.uk/archives/2016/03/16/css-exclusions-and-grid-layout/)
-- []()
-- []()
 - []()
 
 ### #xxx - Shapes
 - [CSS Shapes Module Level 1 - W3C](https://www.w3.org/TR/css-shapes-1/)
 - [Getting Started with CSS Shapes - Razvan Caliman](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
 - []()
-- []()
-- []()
 
 ### #xxx - Filter
 - [Filter Effects Module Level 1 - W3C](https://www.w3.org/TR/filter-effects/)
 - [Filtros CSS - Willian Justen](http://willianjusten.com.br/filtros-css/)
-- []()
-- []()
 - []()
 
 ### #xxx - Blend Modes
@@ -95,7 +79,56 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - [Lomography Filters](http://una.im/lomo/)
 - [Infrared Photo Effect](http://una.im/infrared/)
 - []()
+
+### #xxx -
 - []()
+- []()
+
+<hr>
+
+## Futuro - Dicas rápidas
+
+<hr>
+
+### #xxx - Grid semântico VS não semântico
+- []()
+- []()
+
+### #xxx - Mobile First
+- []()
+- []()
+
+### #xxx - Browser Rendering
+- []()
+- []()
+
+### #xxx - Code Quality e Integração continua
+- []()
+- []()
+
+### #xxx - base 64
+- []()
+- []()
+
+<hr>
+
+## Futuro - Arquiteturas
+
+<hr>
+
+### #xxx - Atomic Design
+- []()
+- []()
+
+### #xxx - BEM
+- []()
+- []()
+
+<hr>
+
+## Futuro - Outros
+
+<hr>
 
 ### #xxx - 50 fatos sobre CSS
 - [The CSS that you know nothing about — Part 1 - Michael Weaver](https://medium.com/@mjtweaver/the-css-that-you-dont-know-about-d5945cea1c94#.wvjm30apc)
@@ -104,6 +137,7 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 ### #xxx - Performance
 - Layouts
   - [Layout performance testing - Chris Wright](http://chriswrightdesign.github.io/layout-performance-testing/)
+- []()
 
 ### #xxx - Regression Testing
 - [Testes de CSS - Eduardo Matos](https://speakerdeck.com/eduardojmatos/testes-de-css)

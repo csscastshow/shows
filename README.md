@@ -40,6 +40,7 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Assunto:** [Episódio piloto + Propriedades customizadas e variáveis.](https://www.youtube.com/watch?v=TkEdCWshqag) <br>
 **Duração:** 15:17 min <br>
 **Data:** 19/03/2016 <br>
+**Playlist:** Especificações <br>
 [Referências](REFERENCES.md)
 
 <hr>
