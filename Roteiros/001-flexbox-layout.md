@@ -2,19 +2,14 @@
 
 <hr>
 
-## Descrição
-- Description
-- Time jump
-- References
-
-<hr>
-
 ## Novidades
 - 100 inscritos & 1 mês de canal
-- O formato foi definido (Novidades + Conteúdo técnico + Dicas)
+- O formato foi definido (Novidades + Conteúdo técnico + Dicas e outros)
 - Relembrando sobre Github e StackOverflow
 - Regularidade de 1 video por semana (Todo domingo)
 - Acessibilidade (Adicionar legendas)
+- Site novo
+- Newsletter
 
 <hr>
 
@@ -75,15 +70,9 @@
 
 <hr>
 
-## Dicas
+## Dicas e outros
 - Abraço para "Da Silva Felipe"
-- Eventos
-  - Femugs
-  - Meetup CSS
-  - CSS Conf Brasil
-  - CSS Day
-  - Front ins *
-  - Front End Carioca
-  - Brazil JS
-  - Mais...
-  - Organize seu meetup, almoço, evento, etc...
+- [Curso de SVG - by Willian Justen](http://willianjusten.com.br/cursos/)
+- [Curso de React - ninja by Fernando Daciuk](http://blog.da2k.com.br/cursos/)
+- [WebSchool - by Suissa](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg/videos)
+- [PodTech by - ZEU CXB](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAt8h85ccdwyNdBMqdHVLY-)
