@@ -72,7 +72,4 @@
 
 ## Dicas e outros
 - Abraço para "Da Silva Felipe"
-- [Curso de SVG - by Willian Justen](http://willianjusten.com.br/cursos/)
-- [Curso de React - ninja by Fernando Daciuk](http://blog.da2k.com.br/cursos/)
-- [WebSchool - by Suissa](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg/videos)
-- [PodTech by - ZEU CXB](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAt8h85ccdwyNdBMqdHVLY-)
+- Agradecimento especial para o gabriel

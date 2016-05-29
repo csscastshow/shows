@@ -15,7 +15,7 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 
 <hr>
 
-## #001 - Flexbox Layout
+## [#001](https://www.youtube.com/watch?v=qBxGXb4iTQw&feature=youtu.be) - Flexbox Layout
 
 - [CSS Flexible Box Layout Module Level 1 - W3C](https://www.w3.org/TR/css-flexbox-1/)
 - [awesome-flexbox - Afonso Pacifer](https://github.com/afonsopacifer/awesome-flexbox)

@@ -43,6 +43,13 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Playlist:** Especificações <br>
 [Referências](REFERENCES.md)
 
+### [#001](https://www.youtube.com/watch?v=qBxGXb4iTQw&feature=youtu.be) <br>
+**Assunto:** [Flexbox Layout: O guia definitivo.](https://www.youtube.com/watch?v=qBxGXb4iTQw&feature=youtu.be) <br>
+**Duração:** 50:24 min <br>
+**Data:** 29/05/2016 <br>
+**Playlist:** Especificações <br>
+[Referências](REFERENCES.md)
+
 <hr>
 
 ## Licença
