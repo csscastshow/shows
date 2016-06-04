@@ -91,13 +91,9 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 
 <hr>
 
-## Futuro - Dicas rápidas
+## Futuro - Dicas descoladas
 
 <hr>
-
-### #xxx - Grid semântico VS não semântico
-- []()
-- []()
 
 ### #xxx - Mobile First
 - []()
@@ -115,6 +111,10 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - []()
 - []()
 
+### #xxx - Afinal, o que é CSS LV4?
+- []()
+- []()
+
 <hr>
 
 ## Futuro - Arquiteturas
@@ -126,6 +126,14 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 - []()
 
 ### #xxx - BEM
+- [BEM 101 - CSS Tricks](https://css-tricks.com/bem-101/)
+- [BEM, um novo método para seu CSS - Tableless](http://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
+- [Uma Introdução À Metodologia BEM - Tuts+](http://webdesign.tutsplus.com/pt/articles/an-introduction-to-the-bem-methodology--cms-19403)
+- [BEM METHODOLOGYDOCUMENT](https://en.bem.info/methodology/)
+- [MindBEMding – getting your head ’round BEM syntax - CSS Wizardry](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [Introduction - Get BEM](http://getbem.com/introduction/)
+- []()
+- []()
 - []()
 - []()
 
