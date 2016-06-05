@@ -50,6 +50,14 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Playlist:** Especificações <br>
 [Referências](REFERENCES.md)
 
+
+### [#002](https://www.youtube.com/watch?v=fHM2MUn1gwg) <br>
+**Assunto:** [Criando grids semânticos VS não semânticos.](https://www.youtube.com/watch?v=fHM2MUn1gwg) <br>
+**Duração:** 38:56 min <br>
+**Data:** 05/06/2016 <br>
+**Playlist:** Dicas descoladas <br>
+[Referências](REFERENCES.md)
+
 <hr>
 
 ## Licença
