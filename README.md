@@ -58,6 +58,13 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Playlist:** Dicas descoladas <br>
 [Referências](REFERENCES.md)
 
+### [#003](https://www.youtube.com/watch?v=I3m8gWgUUto) <br>
+**Assunto:** [Como declarar seu amor apenas com CSS.](https://www.youtube.com/watch?v=I3m8gWgUUto) <br>
+**Duração:** 17:22 min <br>
+**Data:** 12/06/2016 <br>
+**Playlist:** Dicas descoladas <br>
+[Referências](REFERENCES.md)
+
 <hr>
 
 ## Licença

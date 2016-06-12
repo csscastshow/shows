@@ -34,6 +34,11 @@ Os principais materiais de estudo para montar os roteiros e definir o conteúdo 
 
 <hr>
 
+## [#003](https://www.youtube.com/watch?v=I3m8gWgUUto) - Grids
+- [Hora de aventura com CSS 4 - Desenhando com amor](http://codepen.io/afonsopacifer/post/hora-de-aventura-com-css-4-desenhando-com-amor)
+
+<hr>
+
 ## Futuro - Especificações
 
 <hr>
