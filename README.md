@@ -24,11 +24,6 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 
 **URL:** [You Tube](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA)<br>
 **Host:** [Afonso Pacifer](https://github.com/afonsopacifer) <br>
-**Edição:** imovie. <br>
-**Gravação:** QuickTime. <br>
-**Plataformas de apresentação:** [Codepen](http://codepen.io/afonsopacifer/) / Keynote.<br>
-**Câmera:** A do Macbook. <br>
-**Microfone:** O do Macbook.
 
 **OBS:** Sei que não tenho muita coisa rsrsrs, basicamente um computador e internet, mas o importante é fazer com amor :heart:
 
@@ -41,6 +36,9 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Duração:** 15:17 min <br>
 **Data:** 19/03/2016 <br>
 **Playlist:** Especificações <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Microfone:** O do Macbook.
 [Referências](REFERENCES.md)
 
 ### [#001](https://www.youtube.com/watch?v=qBxGXb4iTQw&feature=youtu.be) <br>
@@ -48,6 +46,10 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Duração:** 50:24 min <br>
 **Data:** 29/05/2016 <br>
 **Playlist:** Especificações <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Câmera:** A do Macbook. <br>
+**Microfone:** O do Macbook.
 [Referências](REFERENCES.md)
 
 
@@ -56,6 +58,10 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Duração:** 38:56 min <br>
 **Data:** 05/06/2016 <br>
 **Playlist:** Dicas descoladas <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Câmera:** A do Macbook. <br>
+**Microfone:** O do Macbook.
 [Referências](REFERENCES.md)
 
 ### [#003](https://www.youtube.com/watch?v=I3m8gWgUUto) <br>
@@ -63,6 +69,21 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Duração:** 17:22 min <br>
 **Data:** 12/06/2016 <br>
 **Playlist:** Dicas descoladas <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Câmera:** A do Macbook. <br>
+**Microfone:** O do Macbook.
+[Referências](REFERENCES.md)
+
+### [#004](https://www.youtube.com/watch?v=Rrys1PVR5tQ) <br>
+**Assunto:** [Mobile First está errado?](https://www.youtube.com/watch?v=Rrys1PVR5tQ) <br>
+**Duração:** 12:16 min <br>
+**Data:** 19/06/2016 <br>
+**Playlist:** Trocando ideias <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Câmera:** Moto G 3 geração <br>
+**Microfone:** O do Macbook.
 [Referências](REFERENCES.md)
 
 <hr>

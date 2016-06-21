@@ -1,22 +1,8 @@
 # Show #004 - Mobile First
 
-- Youtube cards:
-  - [#000]
-  - [#001]
-  - [#002]
-  - [website]
-
-<hr>
-
 ## Intro
 - Apresentação padrão
-- Nome do quadro
 - intro
-
-## Novidades
-- Polemica sobre Mobile First
-- SampaJS
-- Github / StackOverflow / Newsletter
 
 <hr>
 
@@ -54,13 +40,3 @@
 
 ### Mobile First visto por um Back-End
 - Falarei rapidinho sobre RESS
-
-## Dicas e outros
-- Dias dos namorados
-- Bonus, heart in only css <3
-
-### Final
-- Github / StackOverflow / Newsletter
-- Tela para Mais videos
-  - [#001]
-  - [#003]

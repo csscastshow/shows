@@ -37,7 +37,7 @@
 <hr>
 
 ## Polymer 00 - Introdução e por que escolher Polymer Project.
-- Introdução
+-  Introdução
   - O que é Polymer Project?
     - WebApps progressivas baseadas na plataforma
     - O minimo de abstrações (menos JS e mais plataforma)
@@ -52,6 +52,8 @@
     - Service Worker
       - Off-line first
   - Compartilhar componentes entre diferentes Stacks
+  - Documentação
+  - Catalogo de elementos
   - App Tools Box
     - Layout
       - App layout components (UI Elements)
