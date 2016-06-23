@@ -86,6 +86,17 @@ Decidi experimentar o StackOverflow ao invés de issues por exemplo, porque assi
 **Microfone:** O do Macbook.
 [Referências](REFERENCES.md)
 
+### [#005](https://youtu.be/Jr_Xoy3Pbkw) <br>
+**Assunto:** [O que é Polymer Project e por que usar?](https://youtu.be/Jr_Xoy3Pbkw) <br>
+**Duração:** 05:37 min <br>
+**Data:** 22/06/2016 <br>
+**Playlist:** Polymer <br>
+**Edição:** imovie. <br>
+**Gravação:** QuickTime. <br>
+**Câmera:** Moto G 3 geração <br>
+**Microfone:** O do Macbook.
+[Referências](REFERENCES.md)
+
 <hr>
 
 ## Licença

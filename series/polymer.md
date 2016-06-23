@@ -98,8 +98,6 @@
 - Touch Events
 
 ## Polymer 00 - Extendendo elementos nativos
-- Trabalhando com listeners
-- Touch Events
 
 ## Polymer 00 - Component Lifecycle
 
